@@ -1,0 +1,23 @@
+{
+  "name": "sinfronteras",
+  "version": "1.0.0",
+  "description": "Sitio web Clinicas sin fronteras",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Oscaraag/Clinicas-sinfronteras.git"
+  },
+  "keywords": [
+    "clinics",
+    "react"
+  ],
+  "author": "Oscaraag",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Oscaraag/Clinicas-sinfronteras/issues"
+  },
+  "homepage": "https://github.com/Oscaraag/Clinicas-sinfronteras#readme"
+}
